@@ -18,3 +18,5 @@
   
   
   [postman](https://learning.postman.com/docs/postman/launching-postman/introduction/)
+  
+  [API Testing using Postman: Part 2 ( Understanding HTTP Methods and Authentication](https://www.youtube.com/watch?v=YazDWUPh_xs)
